@@ -1,0 +1,13 @@
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\TriggerMSFlow\TriggerMSFlow\bin\Debug\netcoreapp3.1\TriggerMSFlow.exe
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\TriggerMSFlow\TriggerMSFlow\bin\Debug\netcoreapp3.1\TriggerMSFlow.deps.json
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\TriggerMSFlow\TriggerMSFlow\bin\Debug\netcoreapp3.1\TriggerMSFlow.runtimeconfig.json
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\TriggerMSFlow\TriggerMSFlow\bin\Debug\netcoreapp3.1\TriggerMSFlow.runtimeconfig.dev.json
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\TriggerMSFlow\TriggerMSFlow\bin\Debug\netcoreapp3.1\TriggerMSFlow.dll
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\TriggerMSFlow\TriggerMSFlow\bin\Debug\netcoreapp3.1\TriggerMSFlow.pdb
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\TriggerMSFlow\TriggerMSFlow\obj\Debug\netcoreapp3.1\TriggerMSFlow.csprojAssemblyReference.cache
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\TriggerMSFlow\TriggerMSFlow\obj\Debug\netcoreapp3.1\TriggerMSFlow.AssemblyInfoInputs.cache
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\TriggerMSFlow\TriggerMSFlow\obj\Debug\netcoreapp3.1\TriggerMSFlow.AssemblyInfo.cs
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\TriggerMSFlow\TriggerMSFlow\obj\Debug\netcoreapp3.1\TriggerMSFlow.csproj.CoreCompileInputs.cache
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\TriggerMSFlow\TriggerMSFlow\obj\Debug\netcoreapp3.1\TriggerMSFlow.dll
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\TriggerMSFlow\TriggerMSFlow\obj\Debug\netcoreapp3.1\TriggerMSFlow.pdb
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\TriggerMSFlow\TriggerMSFlow\obj\Debug\netcoreapp3.1\TriggerMSFlow.genruntimeconfig.cache
